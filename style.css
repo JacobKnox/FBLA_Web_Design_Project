@@ -1,0 +1,131 @@
+.headerbutton{
+  border-radius: 8px;
+  color: white;
+  background-color: teal;
+  border-color: white;
+}
+.headerbutton:hover{
+  cursor: pointer;
+  background-color: maroon;
+}
+.buttonlink{
+  text-decoration: none;
+}
+ul{
+  list-style-type: circle;
+}
+h2{
+  text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+  text-decoration-color: teal;
+}
+
+#header{
+  background-image: url("HeaderBackground.jpg");
+  padding-bottom: 26px;
+  padding-top: 26px;
+}
+#accuracyheader{
+  color: black;
+}
+#body{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#buttons{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+#buttons, #accuracyheader, #footer{
+  border-width: 5px;
+  border-style: solid;
+  border-color: maroon;
+  background-color: white;
+}
+
+/* social media buttons in the footer section */
+#fb{
+  background-color:#3b5998;
+}
+#twit{
+  background-color:#00ACED;
+}
+#insta{
+  background-color:#FB3958;
+}
+#pint{
+  background-color:#C8232C;
+}
+.sm{
+  color:white;
+  border-radius:64px;
+}
+.sm:hover{
+  opacity:0.7;
+}
+/* social media buttons in the footer section */.headerbutton{
+  border-radius: 8px;
+  color: white;
+  background-color: teal;
+  border-color: white;
+}
+.headerbutton:hover{
+  cursor: pointer;
+  background-color: maroon;
+}
+.buttonlink{
+  text-decoration: none;
+}
+ul{
+  list-style-type: circle;
+}
+h2{
+  text-decoration-line: overline underline;
+  text-decoration-style: wavy;
+  text-decoration-color: teal;
+}
+
+#header{
+  background-image: url("HeaderBackground.jpg");
+  padding-bottom: 26px;
+  padding-top: 26px;
+}
+#accuracyheader{
+  color: black;
+}
+#body{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+#buttons{
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+#buttons, #accuracyheader, #footer{
+  border-width: 5px;
+  border-style: solid;
+  border-color: maroon;
+  background-color: white;
+}
+
+/* social media buttons in the footer section */
+#fb{
+  background-color:#3b5998;
+}
+#twit{
+  background-color:#00ACED;
+}
+#insta{
+  background-color:#FB3958;
+}
+#pint{
+  background-color:#C8232C;
+}
+.sm{
+  color:white;
+  border-radius:64px;
+}
+.sm:hover{
+  opacity:0.7;
+}
+/* social media buttons in the footer section */
