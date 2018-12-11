@@ -8,6 +8,9 @@
   cursor: pointer;
   background-color: maroon;
 }
+.textlink{
+  color: black;
+}
 .buttonlink{
   text-decoration: none;
 }
